@@ -1,6 +1,6 @@
 # LOGIN COOKIE
 
-# IGHACK USAGE
+# IGHACK FREE USAGE
 
 $ pkg pkg update && upgrade
 
