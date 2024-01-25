@@ -10,6 +10,8 @@ $ pkg install pip
 
 $ pkg install git
 
+$ pip install httpx
+
 $ pip install stdiomask
 
 $ pip install requests
@@ -25,8 +27,6 @@ $ git clone https://github.com/KING-localhost/IGHACK.git
 $ cd IGHACK
 
 $ python ighack.py
-
-![Screenshot_20231227-193540_Termux](https://github.com/KING-localhost/BRUTEFB/assets/71694553/466f68ee-b05c-4334-b314-d5868e5ca33f)
 
 
 # CONTACT
